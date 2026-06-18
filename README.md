@@ -13,22 +13,7 @@ Designed deterministic prompts to extract structured information from unstructur
 * JSON Schema Enforcement
 * Data Extraction
 
-## Project 2 – Chain-of-Thought Reasoning
 
-Developed reasoning prompts that encourage structured thinking, verification, and self-correction.
-
-**Skills Used**
-
-* Chain-of-Thought Prompting
-* Logical Reasoning
-* Self-Verification
-* Prompt Design
-
-## Project 3 – Context-Anchored Answering (RAG Basics)
-
-Built a closed-book question-answering workflow that answers only from provided documents and avoids hallucinations.
-
-**Skills Used**
 
 * Retrieval-Augmented Generation (RAG) Basics
 * Context Grounding
